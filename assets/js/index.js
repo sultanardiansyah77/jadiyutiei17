@@ -247,22 +247,28 @@ function createTestimonialsTable() {
         let testimonialsLists = [
             {
                 id : 1, 
-                nama : 'Andi' ,
-                status : 'ProGamer' ,
-                testimoni : 'TopUp4Fun memberikan layanan yang cepat dan efisien. Saya sangat puas dengan pengalaman belanja online di sini!' ,
+                nama : 'papang' ,
+                status : 'pengacara' ,
+                testimoni : 'yutiei memberikan layanan yang cepat dan efisien. Saya sangat puas dengan pengalaman belanja online di sini!' ,
             }, 
             {
                 id : 2, 
-                nama : 'Dina' ,
-                status : 'Pro Gramer' ,
-                testimoni : 'Belanja di TopUp4Fun sangat praktis dan terjamin keamanannya.' ,
+                nama : 'abdul' ,
+                status : 'mahasiswa' ,
+                testimoni : 'Belanja di yutiei sangat praktis dan terjamin keamanannya.' ,
             },
             {
                 id : 3, 
-                nama : 'Doni' ,
-                status : 'Programmer' ,
-                testimoni : 'Saya selalu mendapatkan voucher game dengan harga terbaik di TopUp4Fun.' ,
+                nama : 'sultan' ,
+                status : 'pengusaha' ,
+                testimoni : 'Saya selalu mendapatkan voucher game dengan harga terbaik di yutiei.' ,
             },
+            {
+                id : 4, 
+                nama : 'reno' ,
+                status : 'pengacara' ,
+                testimoni : 'Yutiei memberikan layanan yang cepat dan efisien. Saya sangat puas dengan pengalaman belanja online di sini!' ,
+            }
            
            
         ]
